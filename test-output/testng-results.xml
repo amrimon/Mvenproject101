@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-15T02:30:18Z" name="Default suite" finished-at="2021-02-15T02:31:03Z" duration-ms="44887">
+    <groups>
+    </groups>
+    <test started-at="2021-02-15T02:30:18Z" name="Default test" finished-at="2021-02-15T02:31:03Z" duration-ms="44887">
+      <class name="MavenProjectsRimon.MavenProject101.FromTestNG">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:30:18Z" name="setup" finished-at="2021-02-15T02:30:24Z" duration-ms="5565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test1()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:30:24Z" name="Test1" finished-at="2021-02-15T02:30:27Z" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:30:27Z" name="Test2" finished-at="2021-02-15T02:30:29Z" duration-ms="2123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:30:29Z" name="Test3" finished-at="2021-02-15T02:30:50Z" duration-ms="21246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:30:50Z" name="Test4" finished-at="2021-02-15T02:30:57Z" duration-ms="6125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method signature="Test5()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:30:57Z" name="Test5" finished-at="2021-02-15T02:31:03Z" duration-ms="6215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:MavenProjectsRimon.MavenProject101.FromTestNG@f09733f]" started-at="2021-02-15T02:31:03Z" name="quit" finished-at="2021-02-15T02:31:03Z" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- MavenProjectsRimon.MavenProject101.FromTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
